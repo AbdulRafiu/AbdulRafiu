@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/ab_rafay1" target="blank"><img src="https://img.shields.io/twitter/follow/ab_rafay1?logo=twitter&style=for-the-badge" alt="ab_rafay1" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Quarkus and Vue.js**
 
-- 🌱 I’m currently learning **Deep learning and Flutter**
+- 🌱 I’m currently learning **Java Enterprise App Developement**
 
 - 👯 I’m looking to collaborate on **Data Science and Web Development Projects**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java, Python, OOP, REST, Cloud**
 
 - 📫 How to reach me **ark.1kh@gmail.com**
 
